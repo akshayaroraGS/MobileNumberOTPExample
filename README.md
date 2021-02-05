@@ -5,7 +5,7 @@ For run this code You need this tools
 - Android Studio(for Android)
 - Xcode(for iOS )
 
-# for the run code
+# for run  the Project
 - Clone the repo
 - Open Terminal
 - Go inside the MobileNumberOtpExample -> MobileNumberOtpExample
